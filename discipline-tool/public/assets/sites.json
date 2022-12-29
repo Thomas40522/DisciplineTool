@@ -1792,15 +1792,6 @@
     },
     {
         "protocol": "http",
-        "domain": "omg.yahoo.com",
-        "path": null,
-        "subdomain": "omg",
-        "host": "yahoo",
-        "tld": "com",
-        "parent_domain": "yahoo.com"
-    },
-    {
-        "protocol": "http",
         "domain": "www.celebuzz.com",
         "path": null,
         "subdomain": "www",
@@ -3931,15 +3922,6 @@
         "host": "mozilla",
         "tld": "org",
         "parent_domain": "mozilla.org"
-    },
-    {
-        "protocol": "https",
-        "domain": "www.google.com",
-        "path": "intl/en/chrome/browser/",
-        "subdomain": "www",
-        "host": "google",
-        "tld": "com",
-        "parent_domain": "google.com"
     },
     {
         "protocol": "http",

@@ -33,6 +33,7 @@ chrome.tabs.onUpdated.addListener(async () => {
 function filter(input, keyWords) {
     for (const keyWord of keyWords) {
         if (input?.toLowerCase().includes(keyWord)) {
+            console.log(keyWord)
             return true;
         }
     }
@@ -46,9 +47,9 @@ async function actionCurrentTab() {
     // `tab` will either be a `tabs.Tab` instance or `undefined`.
     await chrome.tabs.query(queryOptions, function(tab) {
         console.log(tab[0].url);
-        console.log(keyWords);
+        // console.log(keyWords);
         console.log(filter(tab[0].title, keyWords));
-        console.log(bannedWebsites);
+        // console.log(bannedWebsites);
         console.log(filter(tab[0].url, bannedWebsites));    
     });
 
