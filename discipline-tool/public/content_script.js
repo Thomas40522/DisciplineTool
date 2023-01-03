@@ -19,12 +19,14 @@ const keywords = [
   "情趣",
   "性感",
   "口交",
-  "极品少妇"
+  "极品少妇",
+  "诱惑",
+  "美臀"
 ]
 
-detectTab(3)
+detectTab(5)
 
-function detectTab(intensity) {
+function detectTab(sensitivity) {
   var text = document.querySelector("body").innerText;
   text = text + document.querySelector("title").innerText;
   text = text.toLowerCase()
@@ -33,7 +35,7 @@ function detectTab(intensity) {
   for(const keyword of keywords) {
     occurence += getOccurence(text, keyword)
   }
-  if (occurence >= intensity) {
+  if (occurence >= sensitivity) {
     chrome.runtime.sendMessage("block this tab");
   }
   console.log(occurence)
