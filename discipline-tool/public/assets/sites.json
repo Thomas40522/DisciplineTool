@@ -9,6 +9,18 @@
         "parent_domain": "theporndude.com"
     },
     {
+        "domain": "www.bellesa.co",
+        "subdomain": "www"
+    },
+    {
+        "domain": "ok.xxx",
+        "subdomain": null
+    },
+    {
+        "domain": "www.sexvid.xxx",
+        "subdomain": "www"
+    },
+    {
         "protocol": "http",
         "domain": "www.xvideos.com",
         "path": null,
@@ -3781,15 +3793,6 @@
     },
     {
         "protocol": "http",
-        "domain": "www.reddit.com",
-        "path": "r/nsfw/",
-        "subdomain": "www",
-        "host": "reddit",
-        "tld": "com",
-        "parent_domain": "reddit.com"
-    },
-    {
-        "protocol": "http",
         "domain": "www.videarn.com",
         "path": null,
         "subdomain": "www",
@@ -3913,15 +3916,6 @@
         "host": "imgbox",
         "tld": "com",
         "parent_domain": "imgbox.com"
-    },
-    {
-        "protocol": "http",
-        "domain": "www.mozilla.org",
-        "path": "en-US/firefox/fx/",
-        "subdomain": "www",
-        "host": "mozilla",
-        "tld": "org",
-        "parent_domain": "mozilla.org"
     },
     {
         "protocol": "http",
@@ -4966,24 +4960,6 @@
         "host": "pornpin",
         "tld": "co",
         "parent_domain": "pornpin.co"
-    },
-    {
-        "protocol": "https",
-        "domain": "twitter.com",
-        "path": "BreeOlson",
-        "subdomain": null,
-        "host": "twitter",
-        "tld": "com",
-        "parent_domain": "twitter.com"
-    },
-    {
-        "protocol": "http",
-        "domain": "www.pinterest.com",
-        "path": "suicidegirls/",
-        "subdomain": "www",
-        "host": "pinterest",
-        "tld": "com",
-        "parent_domain": "pinterest.com"
     },
     {
         "protocol": "http",
