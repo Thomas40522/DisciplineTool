@@ -1,6 +1,6 @@
 # Masturbation Discipline Tool
 
-Overview
+## Overview
 
 This is a chrome extension that helps you to stop, or have a discipline masturbation period. It automatically blocks 2000+ documented erotic websites at the instance you try to open them. 
 
@@ -12,5 +12,7 @@ You can also help improve our performance by reporting undocumented inappropriat
 
 Please enjoy using this extension and wish you have a healthy life
 
-Install
+## Install
+
+
 
