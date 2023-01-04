@@ -32,6 +32,7 @@ A few more steps is needed, please click Details of this extension
 
 <img width="1206" alt="Screenshot 2023-01-04 at 14 48 50" src="https://user-images.githubusercontent.com/73463155/210637235-fa104afa-0968-46a2-b604-b127c4eecb42.png">
 
+Scroll down and turn on "Allow in Incognito", this will allow the extension to protect you from inappropriate websites even in incognito mode
 
 <img width="1200" alt="Screenshot 2023-01-04 at 14 49 57" src="https://user-images.githubusercontent.com/73463155/210637430-f5db83b5-dc1a-49e5-8427-35823b6c0761.png">
 
