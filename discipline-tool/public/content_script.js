@@ -22,7 +22,20 @@ const keywords = [
   "极品少妇"
 ]
 
-detectTab(3)
+
+chrome.storage.sync.get().then((result) => {
+  var detect = result.detect
+  var sensitivity = result.sensitivity
+  sensitivity = 12 - sensitivity / 10;
+
+  if (detect) {
+    detectTab(sensitivity)
+  }
+}).catch(() => {
+  console.log("run default")
+  detectTab(5)
+})
+
 
 function detectTab(intensity) {
   var text = document.querySelector("body").innerText;

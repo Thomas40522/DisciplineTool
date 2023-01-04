@@ -53,8 +53,8 @@ chrome.runtime.onMessage.addListener(() => {
 async function action() {
     await fetchSiteInfo();
     actionCurrentTab(bannedWebsites);
-    await fetchUserSiteInfo();
-    actionCurrentTab(bannedUserWebsites);
+    // await fetchUserSiteInfo();
+    // actionCurrentTab(bannedUserWebsites);
 }
 
 

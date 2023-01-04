@@ -6,12 +6,14 @@ import {
 } from "react-chrome-extension-router";
 
 import AddWebsite from "./components/AddWebsite";
+import Setting from "./components/Setting";
 
 function App() {
   return (
     <>
       <Router>
-        <Link component={AddWebsite}>Add Website</Link>
+        <Setting/>
+        {/* <Link component={AddWebsite}>Report</Link> */}
       </Router>
     </>
   );
