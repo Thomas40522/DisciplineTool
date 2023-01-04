@@ -16,7 +16,7 @@ Please enjoy using this extension and wish you have a healthy life
 
 Download the product file from link: https://github.com/Thomas40522/DisciplineTool/raw/main/DisciplineTool.zip
 
-After unzipping the file, a folder named "build" would appear
+After unzipping the file, a folder named "DisciplineTool" would appear
 
 Open Chrome browser, go to the three dots on the upper right side, click More Tools -> Extensions
 
@@ -26,7 +26,7 @@ Afterward, open the Developer mode on the upper right side, and click Load unpac
 
 <img width="1203" alt="Screenshot 2023-01-04 at 14 44 49" src="https://user-images.githubusercontent.com/73463155/210636669-c1da86aa-1b9d-433c-94eb-8cd55beca72d.png">
 
-Select the "build" folder you've downloaded before
+Select the "DisciplineTool" folder you've downloaded before
 
 A few more steps is needed, please click Details of this extension
 
