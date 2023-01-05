@@ -12,6 +12,8 @@ You can also help improve our performance by reporting undocumented inappropriat
 
 Please enjoy using this extension and wish you have a healthy life
 
+Download from Chrome Web Store <a href="https://chrome.google.com/webstore/detail/masturbation-discipline-t/pggjcpbnoncooahlcgaofjodjkdagepa?utm_term=the%20chrome%20extension&utm_campaign&utm_source=adwords&utm_medium=ppc&hsa_acc=2427782021&hsa_cam=17428611736&hsa_grp=137651736379&hsa_ad=603718303654&hsa_src=g&hsa_tgt=kwd-618678443230&hsa_kw=the%20chrome%20extension&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAiAh9qdBhAOEiwAvxIok_Nc50Kke9NpNCdlS7DbZ8RcWcvdQPmmubZxwbfmUm8oy7GT5kjuShoCsCcQAvD_BwE">Masturbation Discipline Tool</a>
+
 ## Install
 
 Download the product file from link: https://github.com/Thomas40522/DisciplineTool/raw/main/DisciplineTool.zip
